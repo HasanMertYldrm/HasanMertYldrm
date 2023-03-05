@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HasanMertYldrm
-- 👀 I’m interested in Software Mathemattics Physics philosophy 
+- 👀 I’m interested in Software Mathematics Physics Philosophy 
 - 🌱 I’m currently learning html-css-JavaScript and I have intention about learning mobile app programming.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
