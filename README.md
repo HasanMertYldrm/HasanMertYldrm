@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HasanMertYldrm
 - 👀 I’m interested in Software Mathematics Physics Philosophy 
-- 🌱 I’m currently learning html-css-JavaScript and I have intention about learning mobile app programming.
+- 🌱 I’m currently learning C# and I have intention about .Net framework.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
